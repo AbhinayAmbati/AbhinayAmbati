@@ -4,11 +4,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinayAmbati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&locale=en" alt="abhinayambati" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati&" alt="abhinayambati" /></p>
-
 </div>
 
 ###
@@ -38,6 +33,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&locale=en" alt="abhinayambati" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati&" alt="abhinayambati" /></p>
 
 ###
 
