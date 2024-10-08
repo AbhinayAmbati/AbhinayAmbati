@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fwoman-works-computer-with-fire-burning-her_148418695.htm&psig=AOvVaw2fwiOY7qnKNLtZUzzzxp0W&ust=1728489322318000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid2diS_4gDFQAAAAAdAAAAABAX"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/OIG4.ySKPMUY6DRCKvBcX2qrK?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"/>
 
 ###
 
