@@ -10,9 +10,8 @@
 
 ###
 
-<p align="center">
   <img src="https://media.giphy.com/media/1APaqOO3SPKSxP8rI5/giphy.gif" width="400" alt="Funny GIF" />
-</p>
+
 
 ###
 
