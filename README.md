@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhinay Ambati .</h2>
+<h2 align="left">Hi 👋! My name is Abhinay Ambati.</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E76A8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;JAVA+Developer!)
 
@@ -8,11 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinayAmbati&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
 ###
 
 <img align="right" height="150" src="https://th.bing.com/th/id/OIG4.ySKPMUY6DRCKvBcX2qrK?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"  />
-
 
 ###
 
@@ -36,6 +34,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" height="30" alt="autocad logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" height="30" alt="shell logo" />
 </div>
 
 <br>
@@ -53,4 +69,6 @@
 
 ###
 
-###
+### Languages & Technologies I Know:
+
+Express.js, MongoDB, Postman API, REST, Java, MySQL, API, GitHub, C++, Python, Node.js, Linux, Shell Scripting, PostgreSQL, AutoCAD, SQL, Figma, Firebase, React.js, JavaScript, Android Studio, Kotlin, Java, CSS, HTML, C
