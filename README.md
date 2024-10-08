@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIG4.ySKPMUY6DRCKvBcX2qrK?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"/>
+<img align="right" height="150" src="https://www.bing.com/images/create/a-teenage-boy-who-is-programming-in--a-monitor-wit/1-670554dca33c4ad18a4f8bfbe1b071fa?id=LezoBvhNK5xLfsLZXRrfig.TLdJinIuqVwyLoBdzZ2L7g&view=detailv2&idpp=genimg&thid=OIG2.njLHWhjdDgaotI8SVFxV&skey=GYppjZptkhjgQa_BR-mbIk_pyctslJRUAWFt7wt392E&form=GCRIDP&ajaxhist=0&ajaxserp=0" />
 
 ###
 
