@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhinay Ambati and I'm a Web Developer </> .</h2>
+<h2 align="left">Hi 👋! My name is Abhinay Ambati .</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E76A8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;JAVA+Developer!)
 
