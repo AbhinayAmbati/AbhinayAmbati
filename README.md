@@ -37,9 +37,14 @@
 <br>
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&locale=en" alt="abhinayambati" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&locale=en" alt="abhinayambati" width="400" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati&" alt="abhinayambati" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati" alt="abhinayambati" width="400" />
+</p>
+
 </div>
 
 ###
