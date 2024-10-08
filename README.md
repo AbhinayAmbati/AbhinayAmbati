@@ -1,65 +1,55 @@
-# Hi there, I'm Abhinay Ambati! 👋
+<h2 align="left">Hi 👋! My name is Abhinay Ambati and I'm a Web Developer </> .</h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E76A8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Always+Learning+and+Building!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E76A8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;JAVA+Developer!)
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer, constantly exploring new technologies and improving my skills. 🚀
 
----
+###
 
-## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinayAmbati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248"/>
+###
+
+<img align="right" height="150" src="https://th.bing.com/th/id/OIG4.ySKPMUY6DRCKvBcX2qrK?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
+
+<br>
+
+<div>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&locale=en" alt="abhinayambati" width="400" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinayambati&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati&theme=dracula" width="48%" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati" alt="abhinayambati" width="400" />
 </p>
 
----
+</div>
 
-## 💻 Featured Projects
+###
 
-- [**Project 1**](https://github.com/abhinayambati/project1) - A brief description of your amazing project.
-- [**Project 2**](https://github.com/abhinayambati/project2) - Highlight another great project.
-
----
-
-## 🚀 Fun Animations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
-
----
-
-## 💬 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhinayambati" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinay%20Ambati-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:abhinayambati@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-abhinayambati@example.com-red?style=flat-square&logo=gmail">
-  </a>
-</p>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░
-Python       8 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░
-HTML/CSS     5 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░
-Other        3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░
+###
