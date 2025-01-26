@@ -12,6 +12,8 @@
 
 <img align="right" height="150" src="https://th.bing.com/th/id/OIG4.ySKPMUY6DRCKvBcX2qrK?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" />
 
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" height="150" alt="right side animation" />
+
 ###
 
 <div align="left">
@@ -72,5 +74,3 @@
 </p>
 
 </div>
-
-###
