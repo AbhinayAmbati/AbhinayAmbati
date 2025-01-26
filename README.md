@@ -11,7 +11,7 @@
 ###
 
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" height="150" alt="right side animation" />
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" height="300" alt="right side animation" />
 
 ###
 
