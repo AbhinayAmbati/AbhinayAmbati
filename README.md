@@ -68,7 +68,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinayambati" alt="abhinayambati" width="400" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=abhinayambati" alt="abhinayambati" width="400" />
 </p>
 
 </div>
