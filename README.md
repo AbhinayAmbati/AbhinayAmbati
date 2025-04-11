@@ -115,7 +115,7 @@
 
 ### Database & Storage
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresqlfirebase&perline=4" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" alt="Database Skills" />
 </div>
 
 </td>
