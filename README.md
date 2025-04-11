@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="320px" marginTop="20px" alt="Coding Animation">
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="320px" style="margin-top: 20px;" alt="Coding Animation">
 
 ## 🚀 About Me
 
