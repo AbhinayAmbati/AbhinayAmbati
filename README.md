@@ -33,6 +33,31 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinayAmbati&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="192px" alt="language stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&count_private=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+<br>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+<br>
+
+
 ## 💻 Tech Stack
 
 <details open>
@@ -142,51 +167,6 @@
 </p>
 </details>
 
-<br>
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/AbhinayAmbati/NexBank-BankingApplication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=ecommerce-platform&theme=tokyonight" alt="Ecommerce Platform" />
-  </a>
-  <a href="https://github.com/AbhinayAmbati/Connectify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=task-management-app&theme=tokyonight" alt="Task Management App" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/AbhinayAmbati/Netflix_Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=spring-microservices&theme=tokyonight" alt="Spring Microservices" />
-  </a>
-  <a href="https://github.com/AbhinayAmbati/JobPortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=react-portfolio&theme=tokyonight" alt="React Portfolio" />
-  </a>
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinayAmbati&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="192px" alt="language stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&count_private=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-</div>
-
-<br>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&theme=tokyo-night" alt="Activity Graph" />
-</p>
 
 <br>
 
