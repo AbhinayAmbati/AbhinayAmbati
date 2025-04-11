@@ -1,4 +1,4 @@
-<h1 align="center">✨ Abhinay Ambati | Full-Stack Developer ✨</h1>
+<h1 align="center">Abhinay Ambati</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
