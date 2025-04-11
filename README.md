@@ -42,13 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%"/>
 </div>
 
-<div align="center">
-  <img src="https://gist.githubusercontent.com/AbhinayAmbati/60ae2fe88ae6b4bd788b2b1e5e8f1079/raw/76f8e501b72c71343b9fad107a7c8dafb57b0cdf/java-proficiency.svg" alt="Java Proficiency" width="80%"/>
-  <img src="https://gist.githubusercontent.com/AbhinayAmbati/60ae2fe88ae6b4bd788b2b1e5e8f1079/raw/76f8e501b72c71343b9fad107a7c8dafb57b0cdf/javascript-proficiency.svg" alt="JavaScript Proficiency" width="75%"/>
-  <img src="https://gist.githubusercontent.com/AbhinayAmbati/60ae2fe88ae6b4bd788b2b1e5e8f1079/raw/76f8e501b72c71343b9fad107a7c8dafb57b0cdf/python-proficiency.svg" alt="Python Proficiency" width="70%"/>
-  <img src="https://gist.githubusercontent.com/AbhinayAmbati/60ae2fe88ae6b4bd788b2b1e5e8f1079/raw/76f8e501b72c71343b9fad107a7c8dafb57b0cdf/go-proficiency.svg" alt="Go Proficiency" width="55%"/>
-</div>
-
 <br>
 
 <div align="center">
