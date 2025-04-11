@@ -147,19 +147,19 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AbhinayAmbati/ecommerce-platform">
+  <a href="https://github.com/AbhinayAmbati/NexBank-BankingApplication">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=ecommerce-platform&theme=tokyonight" alt="Ecommerce Platform" />
   </a>
-  <a href="https://github.com/AbhinayAmbati/task-management-app">
+  <a href="https://github.com/AbhinayAmbati/Connectify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=task-management-app&theme=tokyonight" alt="Task Management App" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/AbhinayAmbati/spring-microservices">
+  <a href="https://github.com/AbhinayAmbati/Netflix_Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=spring-microservices&theme=tokyonight" alt="Spring Microservices" />
   </a>
-  <a href="https://github.com/AbhinayAmbati/react-portfolio">
+  <a href="https://github.com/AbhinayAmbati/JobPortal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=react-portfolio&theme=tokyonight" alt="React Portfolio" />
   </a>
 </div>
