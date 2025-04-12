@@ -68,7 +68,6 @@
 
 <br>
 
-## 📈 Activity Graph
 <div align="center">
   <h3>Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&bg_color=0D1117&color=F85D7F&line=9FDBF8&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
