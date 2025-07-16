@@ -101,7 +101,7 @@
 
 ### DevOps & Infrastructure
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&perline=4" alt="DevOps Skills" />
+<img src="https://skillicons.dev/icons?i=aws&perline=4" alt="DevOps Skills" />
 </div>
 
 </td>
