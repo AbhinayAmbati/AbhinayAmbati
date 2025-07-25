@@ -85,7 +85,7 @@
 
 ### Frontend Mastery
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=4" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind&perline=4" alt="Frontend Skills" />
 </div>
 
 </td>
