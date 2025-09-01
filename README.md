@@ -145,8 +145,6 @@ const abhinay = {
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Snake animation](https://github.com/AbhinayAmbati/AbhinayAmbati/blob/output/github-contribution-grid-snake.svg)
-
 **⭐ From [AbhinayAmbati](https://github.com/AbhinayAmbati) | Always open to interesting conversations and collaboration opportunities!**
 
 </div>
