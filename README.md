@@ -129,17 +129,6 @@ const abhinay = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=your-project-1&theme=tokyonight)](https://github.com/AbhinayAmbati/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=your-project-2&theme=tokyonight)](https://github.com/AbhinayAmbati/your-project-2)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
