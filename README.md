@@ -1,172 +1,163 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Abhinay%20Ambati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20|%20Building%20Tomorrow's%20Tech&descAlignY=50&descSize=15" width="100%"/>
-</p>
-
+# Hi there, I'm Abhinay Ambati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=D76D77&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+Virtuoso;Code+Quality+Guardian" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhinayAmbati&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/AbhinayAmbati?tab=followers">
-    <img src="https://img.shields.io/github/followers/AbhinayAmbati?style=for-the-badge&logo=github&color=blue" alt="followers" />
-  </a>
-</p>
-
-<br>
-
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="320px" style="margin-top: 30px;" alt="Coding Animation">
-
-## 🚀 About Me
-
-<p align="left">
-  Hi there! I'm <b>Abhinay Ambati</b>, a passionate full-stack developer with a deep love for Java and modern web technologies. I enjoy architecting scalable applications and transforming complex problems into elegant solutions.
   
-  🔭 I'm currently working on enhancing my microservices architecture skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Java+%26+React+Enthusiast;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+
+### 🚀 Passionate about creating robust, scalable applications that make a difference
+
+[![Website](https://img.shields.io/badge/Website-abhinayambati.codes-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinayambati.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinayambati)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinayambati4@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhinayAmbati&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/AbhinayAmbati)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** currently pursuing my B.Tech in Computer Science & Engineering at KL University. I love crafting efficient, scalable solutions using modern technologies, with a strong foundation in Java and expertise in contemporary web development frameworks. 
+
+Currently diving deep into **microservices architecture** and **advanced React patterns** while exploring the endless possibilities of **cloud infrastructure**. When I'm not coding, you'll find me debugging with a cup of coffee ☕ and exploring the latest tech trends.
+
+🎯 **Focus Areas:** Building scalable web applications, system design, and creating seamless user experiences
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```javascript
+const abhinay = {
+    education: "B.Tech CSE @ KL University (2023-2027)",
+    currentFocus: [
+        "Enhancing microservices architecture",
+        "Advanced React patterns & hooks",
+        "Cloud infrastructure optimization",
+        "System design principles"
+    ],
+    learning: ["Advanced System Design", "Cloud Architecture", "Performance Optimization"],
+    hobbies: ["Problem Solving", "Open Source Contributing", "Tech Blogging"],
+    funFact: "I debug better with coffee ☕"
+};
+```
+
+---
+
+## 🎓 Education & Learning Journey
+
+**🏛️ KL University** *(2023 - 2027)*  
+**B.Tech in Computer Science & Engineering**
+
+**📚 Currently Learning:**
+- 🏗️ Advanced System Design
+- ☁️ Cloud Architecture Patterns
+- ⚡ Performance Optimization Techniques
+- 🌐 Full-Stack Web Development
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
   
-  🌱 I'm learning advanced React patterns and cloud infrastructure
+[![Abhinay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/AbhinayAmbati)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=your-project-1&theme=tokyonight)](https://github.com/AbhinayAmbati/your-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhinayAmbati&repo=your-project-2&theme=tokyonight)](https://github.com/AbhinayAmbati/your-project-2)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-abhinayambati.codes-36BCF7?style=for-the-badge)](https://abhinayambati.codes)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Abhinay_Ambati-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhinayambati)
+[![Email](https://img.shields.io/badge/📧_Email-abhinayambati4@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinayambati4@email.com)
+
+</div>
+
+---
+
+<div align="center">
   
-  💬 Ask me about Java, React, or full-stack development
-  
-  ⚡ Fun fact: I debug code better with coffee!
-</p>
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<br>
+![Snake animation](https://github.com/AbhinayAmbati/AbhinayAmbati/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats
+**⭐ From [AbhinayAmbati](https://github.com/AbhinayAmbati) | Always open to interesting conversations and collaboration opportunities!**
 
-💻 Language Used
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%"/>
 </div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Statistics</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=9FDBF8" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <h3 align="center">Streak</h3>
-        <img align="center" src="https://streak-stats.demolab.com/?user=AbhinayAmbati&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=9FDBF8&fire=F85D7F&currStreakLabel=9FDBF8" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<div align="center">
-  <h3>Trophy Collection</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="90%" alt="Trophy Collection" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&bg_color=0D1117&color=F85D7F&line=9FDBF8&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
-</div>
-
-
-<br>
-
-
-## 🔧 Tech Arsenal
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### Frontend Mastery
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind&perline=4" alt="Frontend Skills" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend Expertise
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4" alt="Backend Skills" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### DevOps & Infrastructure
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins&perline=4" alt="DevOps Skills" />
-</div>
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Database & Storage
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" alt="Database Skills" />
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-### Tools & Platforms
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,linux&perline=5" alt="Tools Skills" />
-</div>
-
-</td>
-</tr>
-</table>
-
-
-
-<br>
-
-## 🎓 Education
-
-- **Bachelor of Technology in Computer Science and Engineering**
-  - KL University ( 2023 - 2027 )
-
-<br>
-
-## 💡 What I'm Learning Now
-
-- Advanced System Design
-- Cloud Architecture
-- Performance Optimization Techniques
-- Full Stack Web Development
-
-<br>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhinayambati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:abhinayambati4@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://abhinayambati.codes/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
-
-<!-- Don't forget to replace placeholder URLs, usernames, and repository names with your actual information -->
