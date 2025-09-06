@@ -1,63 +1,16 @@
 <div align="center">
 
-<!-- Animated Header with Particles Background -->
-<div style="position: relative; background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px; overflow: hidden;">
-  
-  <!-- Particles Animation -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: radial-gradient(2px 2px at 20px 30px, #00ffff, transparent), radial-gradient(2px 2px at 40px 70px, #ff00ff, transparent), radial-gradient(1px 1px at 90px 40px, #ffff00, transparent); background-repeat: repeat; background-size: 100px 100px; animation: particles 20s linear infinite; opacity: 0.3;"></div>
-  
-  <!-- Animated Waving Hand -->
-  <h1 style="font-size: 3.5em; margin: 0; background: linear-gradient(45deg, #00ffff, #ff00ff, #ffff00); background-clip: text; -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
-    👋 Hey there! I'm Abhinay Ambati
-  </h1>
-  
-  <!-- Typing Animation Effect -->
-  <div style="font-size: 1.4em; margin-top: 20px; color: #00ffff; font-family: 'Courier New', monospace;">
-    <span style="animation: typing 4s steps(60) infinite;">Full-Stack Developer | Java & React Enthusiast | Building Scalable Solutions | Always Learning</span>
-    <span style="animation: blink 1s infinite;">|</span>
-  </div>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Abhinay+Ambati;Full-Stack+Developer;Java+%26+React+Enthusiast;Building+Scalable+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="100">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
-<!-- Animated CSS Styles -->
-<style>
-@keyframes particles {
-  0% { transform: translateY(0px); }
-  100% { transform: translateY(-100px); }
-}
-
-@keyframes glow {
-  0% { text-shadow: 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff; }
-  100% { text-shadow: 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff; }
-}
-
-@keyframes typing {
-  0%, 50% { width: 0; }
-  100% { width: 100%; }
-}
-
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
-
-<!-- 3D Glassmorphism About Section -->
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 20px; padding: 30px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3); animation: float 3s ease-in-out infinite;">
-
-## 🚀 About Me
-
-<div style="text-align: left; color: #e0e0e0; font-size: 1.1em; line-height: 1.8;">
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
 
 \`\`\`typescript
 const abhinay = {
@@ -71,172 +24,149 @@ const abhinay = {
 };
 \`\`\`
 
-</div>
-</div>
+<div align="center">
 
-<!-- Animated Tech Stack -->
-<div style="background: linear-gradient(135deg, rgba(0, 255, 255, 0.1), rgba(255, 0, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 1px solid rgba(0, 255, 255, 0.3);">
-
-## 🛠️ Tech Arsenal
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
-
-<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #00ffff; animation: pulse 2s infinite;">
-<h3 style="color: #00ffff; margin-top: 0;">🎨 Frontend</h3>
-<p style="color: #e0e0e0;">React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #ff00ff; animation: pulse 2s infinite 0.5s;">
-<h3 style="color: #ff00ff; margin-top: 0;">⚙️ Backend</h3>
-<p style="color: #e0e0e0;">Java • Spring Boot • Node.js • Express.js • RESTful APIs</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #ffff00; animation: pulse 2s infinite 1s;">
-<h3 style="color: #ffff00; margin-top: 0;">☁️ Cloud & DevOps</h3>
-<p style="color: #e0e0e0;">AWS • GCP • Docker • Jenkins • Kubernetes • CI/CD</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #00ff00; animation: pulse 2s infinite 1.5s;">
-<h3 style="color: #00ff00; margin-top: 0;">🗄️ Databases</h3>
-<p style="color: #e0e0e0;">MongoDB • MySQL • PostgreSQL • Firebase • Redis</p>
-</div>
-
-</div>
-</div>
-
-<!-- GitHub Stats with Neon Glow -->
-<div style="background: rgba(0, 0, 0, 0.4); border-radius: 20px; padding: 30px; margin: 30px 0; border: 2px solid rgba(0, 255, 255, 0.5); box-shadow: 0 0 30px rgba(0, 255, 255, 0.3);">
-
-## 📊 GitHub Analytics
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&border_radius=15" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=tokyonight&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakLabel=00ffff&border_radius=15" alt="GitHub Streak" style="animation: float 3s ease-in-out infinite 1s;" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-<div style="margin-top: 20px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffff00&area=true&hide_border=false&border_radius=15" alt="Contribution Graph" style="width: 100%; border-radius: 15px;" />
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/213844281-2f9c0b43-4d58-4c2a-b84b-2d4e4b2c8b8a.png" width="50px" /> Tech Arsenal
 
-<div style="margin-top: 20px;">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="animation: pulse 2s infinite;" />
-</div>
+<div align="center">
 
-</div>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=0D1117&labelColor=00FFFF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=0D1117&labelColor=FF00FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=0D1117&labelColor=FFFF00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0D1117&labelColor=00FF00)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0D1117&labelColor=FF6B6B)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0D1117&labelColor=4ECDC4)
 
-<!-- Most Used Languages -->
-<div style="text-align: center; margin: 30px 0;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=15" alt="Top Languages" style="animation: float 3s ease-in-out infinite;" />
-</div>
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=0D1117&labelColor=FF00FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&color=0D1117&labelColor=00FFFF)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=0D1117&labelColor=FFFF00)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=0D1117&labelColor=00FF00)
 
-<!-- Current Focus Section -->
-<div style="background: linear-gradient(45deg, rgba(255, 0, 255, 0.1), rgba(0, 255, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 1px solid rgba(255, 0, 255, 0.3);">
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0D1117&labelColor=FF6B00)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=0D1117&labelColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0D1117&labelColor=FF00FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white&color=0D1117&labelColor=FFFF00)
 
-## 🎯 Current Focus
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
-
-<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #00ffff; animation: pulse 3s infinite;">
-<span style="font-size: 2em;">🏗️</span>
-<p style="color: #00ffff; margin: 10px 0 0 0;">Microservices Architecture</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #ff00ff; animation: pulse 3s infinite 0.5s;">
-<span style="font-size: 2em;">⚛️</span>
-<p style="color: #ff00ff; margin: 10px 0 0 0;">Advanced React Patterns</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #ffff00; animation: pulse 3s infinite 1s;">
-<span style="font-size: 2em;">☁️</span>
-<p style="color: #ffff00; margin: 10px 0 0 0;">Cloud Optimization</p>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #00ff00; animation: pulse 3s infinite 1.5s;">
-<span style="font-size: 2em;">🎨</span>
-<p style="color: #00ff00; margin: 10px 0 0 0;">System Design</p>
-</div>
-
-</div>
-</div>
-
-<!-- Education Section -->
-<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 30px 0; border: 1px solid rgba(0, 255, 255, 0.2);">
-
-## 🎓 Education
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-<div style="text-align: center;">
-<h3 style="color: #00ffff; margin: 0;">🏛️ KL University</h3>
-<p style="color: #e0e0e0; margin: 5px 0;">B.Tech Computer Science & Engineering</p>
-<p style="color: #ff00ff; margin: 0; font-weight: bold;">2023 - 2027</p>
-</div>
-</div>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=0D1117&labelColor=00FF00)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=0D1117&labelColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=0D1117&labelColor=FF00FF)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&color=0D1117&labelColor=FFFF00)
 
 </div>
 
-<!-- Connect Section with 3D Buttons -->
-<div style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(0, 255, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 2px solid rgba(0, 255, 255, 0.3);">
+<div align="center">
 
-## 🤝 Let's Connect & Collaborate
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-
-<a href="mailto:abhinayambati@gmail.com" style="text-decoration: none;">
-<div style="background: linear-gradient(45deg, #ff00ff, #00ffff); padding: 15px 25px; border-radius: 15px; color: white; font-weight: bold; box-shadow: 0 5px 15px rgba(255, 0, 255, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite;">
-📧 Email
-</div>
-</a>
-
-<a href="https://linkedin.com/in/abhinayambati" style="text-decoration: none;">
-<div style="background: linear-gradient(45deg, #0077b5, #00ffff); padding: 15px 25px; border-radius: 15px; color: white; font-weight: bold; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite 0.5s;">
-💼 LinkedIn
-</div>
-</a>
-
-<a href="https://abhinayambati.dev" style="text-decoration: none;">
-<div style="background: linear-gradient(45deg, #ffff00, #ff00ff); padding: 15px 25px; border-radius: 15px; color: black; font-weight: bold; box-shadow: 0 5px 15px rgba(255, 255, 0, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite 1s;">
-🌐 Portfolio
-</div>
-</a>
-
-</div>
-</div>
-
-<!-- Animated Quote Section -->
-<div style="background: rgba(0, 0, 0, 0.6); border-radius: 20px; padding: 40px; margin: 30px 0; text-align: center; border: 2px solid rgba(255, 255, 0, 0.3); position: relative; overflow: hidden;">
-
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent, rgba(255, 255, 0, 0.1), transparent); animation: shimmer 3s infinite;"></div>
-
-## 💡 Philosophy
-
-<blockquote style="font-size: 1.5em; color: #ffff00; font-style: italic; margin: 20px 0; text-shadow: 0 0 10px rgba(255, 255, 0, 0.5); animation: glow 2s ease-in-out infinite alternate;">
-"Code is like humor. When you have to explain it, it's bad."
-</blockquote>
-
-<p style="color: #00ffff; margin-top: 20px;">— Building elegant solutions that speak for themselves</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-<!-- Visitor Counter -->
-<div style="text-align: center; margin: 30px 0;">
-<img src="https://komarev.com/ghpvc/?username=AbhinayAmbati&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views" style="border-radius: 10px;" />
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&border_color=00FFFF&border_radius=15&hide_border=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=tokyonight&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakLabel=00FFFF&border_radius=15&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=FF00FF&border_radius=15&hide_border=false" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00&area=true&hide_border=false&border_radius=15" alt="Contribution Graph" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=tokyonight&no-frame=false&column=4&margin-w=15&margin-h=15&no-bg=false" alt="GitHub Trophies" />
+
 </div>
 
-<!-- Footer with Animation -->
-<div style="text-align: center; padding: 20px; color: #666; font-size: 0.9em;">
-<p style="animation: pulse 2s infinite;">⭐ Star my repositories if you find them interesting!</p>
-<p>Made with 💙 and lots of ☕</p>
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
-<!-- Additional CSS for Shimmer Effect -->
-<style>
-@keyframes shimmer {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
-}
-</style>
+## <img src="https://user-images.githubusercontent.com/74038190/213844281-2f9c0b43-4d58-4c2a-b84b-2d4e4b2c8b8a.png" width="50px" /> Current Focus
+
+<div align="center">
+
+| 🏗️ **Microservices Architecture** | ⚛️ **Advanced React Patterns** |
+|:---:|:---:|
+| ![Microservices](https://img.shields.io/badge/Microservices-Architecture-00FFFF?style=for-the-badge&logo=microgenetics&logoColor=white&color=0D1117&labelColor=00FFFF) | ![React Patterns](https://img.shields.io/badge/React-Patterns-FF00FF?style=for-the-badge&logo=react&logoColor=white&color=0D1117&labelColor=FF00FF) |
+
+| ☁️ **Cloud Optimization** | 🎨 **System Design** |
+|:---:|:---:|
+| ![Cloud](https://img.shields.io/badge/Cloud-Optimization-FFFF00?style=for-the-badge&logo=icloud&logoColor=black&color=0D1117&labelColor=FFFF00) | ![System Design](https://img.shields.io/badge/System-Design-00FF00?style=for-the-badge&logo=systemd&logoColor=white&color=0D1117&labelColor=00FF00) |
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Education
+
+<div align="center">
+
+🏛️ **KL University** | **B.Tech Computer Science & Engineering** | **2023 - 2027**
+
+![Education](https://img.shields.io/badge/KL_University-B.Tech_CSE-00FFFF?style=for-the-badge&logo=graduation-cap&logoColor=white&color=0D1117&labelColor=00FFFF)
+![Years](https://img.shields.io/badge/2023-2027-FF00FF?style=for-the-badge&logo=calendar&logoColor=white&color=0D1117&labelColor=FF00FF)
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844281-2f9c0b43-4d58-4c2a-b84b-2d4e4b2c8b8a.png" width="50px" /> Let's Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-abhinayambati@gmail.com-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=FF00FF)](mailto:abhinayambati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=00FFFF)](https://linkedin.com/in/abhinayambati)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFF00?style=for-the-badge&logo=firefox&logoColor=black&color=0D1117&labelColor=FFFF00)](https://abhinayambati.dev)
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;Building+elegant+solutions+that+speak+for+themselves" alt="Philosophy Typing SVG" />
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinayAmbati&label=Profile%20Views&color=00ffff&style=for-the-badge)
+
+<!-- Animated Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+interesting!;Made+with+💙+and+lots+of+☕" alt="Footer Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="100">
 
 </div>
