@@ -1,150 +1,242 @@
-# Hi there, I'm Abhinay Ambati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
 <div align="center">
+
+<!-- Animated Header with Particles Background -->
+<div style="position: relative; background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px; overflow: hidden;">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Java+%26+React+Enthusiast;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
-
-### 🚀 Passionate about creating robust, scalable applications that make a difference
-
-[![Website](https://img.shields.io/badge/Website-abhinayambati.codes-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinayambati.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinayambati)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinayambati4@email.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhinayAmbati&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/AbhinayAmbati)
-
+  <!-- Particles Animation -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: radial-gradient(2px 2px at 20px 30px, #00ffff, transparent), radial-gradient(2px 2px at 40px 70px, #ff00ff, transparent), radial-gradient(1px 1px at 90px 40px, #ffff00, transparent); background-repeat: repeat; background-size: 100px 100px; animation: particles 20s linear infinite; opacity: 0.3;"></div>
+  
+  <!-- Animated Waving Hand -->
+  <h1 style="font-size: 3.5em; margin: 0; background: linear-gradient(45deg, #00ffff, #ff00ff, #ffff00); background-clip: text; -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
+    👋 Hey there! I'm Abhinay Ambati
+  </h1>
+  
+  <!-- Typing Animation Effect -->
+  <div style="font-size: 1.4em; margin-top: 20px; color: #00ffff; font-family: 'Courier New', monospace;">
+    <span style="animation: typing 4s steps(60) infinite;">Full-Stack Developer | Java & React Enthusiast | Building Scalable Solutions | Always Learning</span>
+    <span style="animation: blink 1s infinite;">|</span>
+  </div>
 </div>
 
----
+<!-- Animated CSS Styles -->
+<style>
+@keyframes particles {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-100px); }
+}
 
-## 🧑‍💻 About Me
+@keyframes glow {
+  0% { text-shadow: 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff; }
+  100% { text-shadow: 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff; }
+}
 
-I'm a passionate **Full-Stack Developer** currently pursuing my B.Tech in Computer Science & Engineering at KL University. I love crafting efficient, scalable solutions using modern technologies, with a strong foundation in Java and expertise in contemporary web development frameworks. 
+@keyframes typing {
+  0%, 50% { width: 0; }
+  100% { width: 100%; }
+}
 
-Currently diving deep into **microservices architecture** and **advanced React patterns** while exploring the endless possibilities of **cloud infrastructure**. When I'm not coding, you'll find me debugging with a cup of coffee ☕ and exploring the latest tech trends.
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
 
-🎯 **Focus Areas:** Building scalable web applications, system design, and creating seamless user experiences
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
 
----
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+</style>
 
-## 🛠️ Tech Stack & Skills
+<!-- 3D Glassmorphism About Section -->
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 20px; padding: 30px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3); animation: float 3s ease-in-out infinite;">
 
-<div align="center">
+## 🚀 About Me
 
-### 💻 Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div style="text-align: left; color: #e0e0e0; font-size: 1.1em; line-height: 1.8;">
 
-### ⚙️ Backend Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+\`\`\`typescript
+const abhinay = {
+  name: "Abhinay Ambati",
+  role: "Full-Stack Developer",
+  education: "B.Tech CSE @ KL University (2023-2027)",
+  passion: ["Scalable Applications", "System Design", "Cloud Architecture"],
+  currentFocus: ["Microservices", "Advanced React Patterns", "Cloud Optimization"],
+  debuggingFuel: "Coffee ☕",
+  motto: "Building the future, one line of code at a time"
+};
+\`\`\`
 
 </div>
+</div>
 
----
+<!-- Animated Tech Stack -->
+<div style="background: linear-gradient(135deg, rgba(0, 255, 255, 0.1), rgba(255, 0, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 1px solid rgba(0, 255, 255, 0.3);">
+
+## 🛠️ Tech Arsenal
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+
+<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #00ffff; animation: pulse 2s infinite;">
+<h3 style="color: #00ffff; margin-top: 0;">🎨 Frontend</h3>
+<p style="color: #e0e0e0;">React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #ff00ff; animation: pulse 2s infinite 0.5s;">
+<h3 style="color: #ff00ff; margin-top: 0;">⚙️ Backend</h3>
+<p style="color: #e0e0e0;">Java • Spring Boot • Node.js • Express.js • RESTful APIs</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #ffff00; animation: pulse 2s infinite 1s;">
+<h3 style="color: #ffff00; margin-top: 0;">☁️ Cloud & DevOps</h3>
+<p style="color: #e0e0e0;">AWS • GCP • Docker • Jenkins • Kubernetes • CI/CD</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; padding: 20px; border-left: 4px solid #00ff00; animation: pulse 2s infinite 1.5s;">
+<h3 style="color: #00ff00; margin-top: 0;">🗄️ Databases</h3>
+<p style="color: #e0e0e0;">MongoDB • MySQL • PostgreSQL • Firebase • Redis</p>
+</div>
+
+</div>
+</div>
+
+<!-- GitHub Stats with Neon Glow -->
+<div style="background: rgba(0, 0, 0, 0.4); border-radius: 20px; padding: 30px; margin: 30px 0; border: 2px solid rgba(0, 255, 255, 0.5); box-shadow: 0 0 30px rgba(0, 255, 255, 0.3);">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinayAmbati&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&border_radius=15" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🚀 What I'm Currently Working On
-
-```javascript
-const abhinay = {
-    education: "B.Tech CSE @ KL University (2023-2027)",
-    currentFocus: [
-        "Enhancing microservices architecture",
-        "Advanced React patterns & hooks",
-        "Cloud infrastructure optimization",
-        "System design principles"
-    ],
-    learning: ["Advanced System Design", "Cloud Architecture", "Performance Optimization"],
-    hobbies: ["Problem Solving", "Open Source Contributing", "Tech Blogging"],
-    funFact: "I debug better with coffee ☕"
-};
-```
-
----
-
-## 🎓 Education & Learning Journey
-
-**🏛️ KL University** *(2023 - 2027)*  
-**B.Tech in Computer Science & Engineering**
-
-**📚 Currently Learning:**
-- 🏗️ Advanced System Design
-- ☁️ Cloud Architecture Patterns
-- ⚡ Performance Optimization Techniques
-- 🌐 Full-Stack Web Development
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Abhinay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/AbhinayAmbati)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinayAmbati&theme=tokyonight&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakLabel=00ffff&border_radius=15" alt="GitHub Streak" style="animation: float 3s ease-in-out infinite 1s;" />
 
 </div>
 
----
+<div style="margin-top: 20px;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinayAmbati&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffff00&area=true&hide_border=false&border_radius=15" alt="Contribution Graph" style="width: 100%; border-radius: 15px;" />
+</div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-abhinayambati.codes-36BCF7?style=for-the-badge)](https://abhinayambati.codes)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Abhinay_Ambati-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhinayambati)
-[![Email](https://img.shields.io/badge/📧_Email-abhinayambati4@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinayambati4@email.com)
+<div style="margin-top: 20px;">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinayAmbati&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="animation: pulse 2s infinite;" />
+</div>
 
 </div>
 
----
+<!-- Most Used Languages -->
+<div style="text-align: center; margin: 30px 0;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayAmbati&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=15" alt="Top Languages" style="animation: float 3s ease-in-out infinite;" />
+</div>
 
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+<!-- Current Focus Section -->
+<div style="background: linear-gradient(45deg, rgba(255, 0, 255, 0.1), rgba(0, 255, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 1px solid rgba(255, 0, 255, 0.3);">
 
-**⭐ From [AbhinayAmbati](https://github.com/AbhinayAmbati) | Always open to interesting conversations and collaboration opportunities!**
+## 🎯 Current Focus
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+
+<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #00ffff; animation: pulse 3s infinite;">
+<span style="font-size: 2em;">🏗️</span>
+<p style="color: #00ffff; margin: 10px 0 0 0;">Microservices Architecture</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #ff00ff; animation: pulse 3s infinite 0.5s;">
+<span style="font-size: 2em;">⚛️</span>
+<p style="color: #ff00ff; margin: 10px 0 0 0;">Advanced React Patterns</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #ffff00; animation: pulse 3s infinite 1s;">
+<span style="font-size: 2em;">☁️</span>
+<p style="color: #ffff00; margin: 10px 0 0 0;">Cloud Optimization</p>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 10px; text-align: center; border: 1px solid #00ff00; animation: pulse 3s infinite 1.5s;">
+<span style="font-size: 2em;">🎨</span>
+<p style="color: #00ff00; margin: 10px 0 0 0;">System Design</p>
+</div>
+
+</div>
+</div>
+
+<!-- Education Section -->
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 30px 0; border: 1px solid rgba(0, 255, 255, 0.2);">
+
+## 🎓 Education
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="text-align: center;">
+<h3 style="color: #00ffff; margin: 0;">🏛️ KL University</h3>
+<p style="color: #e0e0e0; margin: 5px 0;">B.Tech Computer Science & Engineering</p>
+<p style="color: #ff00ff; margin: 0; font-weight: bold;">2023 - 2027</p>
+</div>
+</div>
+
+</div>
+
+<!-- Connect Section with 3D Buttons -->
+<div style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(0, 255, 255, 0.1)); border-radius: 20px; padding: 30px; margin: 30px 0; border: 2px solid rgba(0, 255, 255, 0.3);">
+
+## 🤝 Let's Connect & Collaborate
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+
+<a href="mailto:abhinayambati@gmail.com" style="text-decoration: none;">
+<div style="background: linear-gradient(45deg, #ff00ff, #00ffff); padding: 15px 25px; border-radius: 15px; color: white; font-weight: bold; box-shadow: 0 5px 15px rgba(255, 0, 255, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite;">
+📧 Email
+</div>
+</a>
+
+<a href="https://linkedin.com/in/abhinayambati" style="text-decoration: none;">
+<div style="background: linear-gradient(45deg, #0077b5, #00ffff); padding: 15px 25px; border-radius: 15px; color: white; font-weight: bold; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite 0.5s;">
+💼 LinkedIn
+</div>
+</a>
+
+<a href="https://abhinayambati.dev" style="text-decoration: none;">
+<div style="background: linear-gradient(45deg, #ffff00, #ff00ff); padding: 15px 25px; border-radius: 15px; color: black; font-weight: bold; box-shadow: 0 5px 15px rgba(255, 255, 0, 0.4); transform: perspective(1000px) rotateX(10deg); transition: all 0.3s ease; animation: float 2s ease-in-out infinite 1s;">
+🌐 Portfolio
+</div>
+</a>
+
+</div>
+</div>
+
+<!-- Animated Quote Section -->
+<div style="background: rgba(0, 0, 0, 0.6); border-radius: 20px; padding: 40px; margin: 30px 0; text-align: center; border: 2px solid rgba(255, 255, 0, 0.3); position: relative; overflow: hidden;">
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent, rgba(255, 255, 0, 0.1), transparent); animation: shimmer 3s infinite;"></div>
+
+## 💡 Philosophy
+
+<blockquote style="font-size: 1.5em; color: #ffff00; font-style: italic; margin: 20px 0; text-shadow: 0 0 10px rgba(255, 255, 0, 0.5); animation: glow 2s ease-in-out infinite alternate;">
+"Code is like humor. When you have to explain it, it's bad."
+</blockquote>
+
+<p style="color: #00ffff; margin-top: 20px;">— Building elegant solutions that speak for themselves</p>
+
+</div>
+
+<!-- Visitor Counter -->
+<div style="text-align: center; margin: 30px 0;">
+<img src="https://komarev.com/ghpvc/?username=AbhinayAmbati&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views" style="border-radius: 10px;" />
+</div>
+
+<!-- Footer with Animation -->
+<div style="text-align: center; padding: 20px; color: #666; font-size: 0.9em;">
+<p style="animation: pulse 2s infinite;">⭐ Star my repositories if you find them interesting!</p>
+<p>Made with 💙 and lots of ☕</p>
+</div>
+
+<!-- Additional CSS for Shimmer Effect -->
+<style>
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+</style>
 
 </div>
