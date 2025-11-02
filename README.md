@@ -26,6 +26,3 @@ Learning microservices architecture and advanced system design patterns. Explori
 ---
 
 *Always open to interesting conversations and collaboration opportunities.*
-
-![snake gif](https://github.com/AbhinayAmbati/AbhinayAmbati/blob/output/github-contribution-grid-snake.svg)
-
