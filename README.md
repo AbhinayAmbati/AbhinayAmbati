@@ -15,6 +15,9 @@ Currently pursuing B.Tech CSE at KL University.
 
 Learning microservices architecture and advanced system design patterns. Exploring cloud infrastructure and building projects that solve real problems.
 
+## Vibing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4xwxkatkmzzu4v4w55a4ymc4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4xwxkatkmzzu4v4w55a4ymc4q&redirect=true)
+
 
 ## Let's Connect
 
