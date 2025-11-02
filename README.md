@@ -15,9 +15,6 @@ Currently pursuing B.Tech CSE at KL University.
 
 Learning microservices architecture and advanced system design patterns. Exploring cloud infrastructure and building projects that solve real problems.
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31e4xwxkatkmzzu4v4w55a4ymc4q&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="400" />
-
-
 
 ## Let's Connect
 
