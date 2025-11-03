@@ -21,7 +21,7 @@ Learning microservices architecture and advanced system design patterns. Explori
 
 ## Let's Connect
 
-[Website](https://abhinayambati.codes) · [LinkedIn](https://linkedin.com/in/abhinayambati) · [Email](mailto:abhinayambati4@email.com)
+[Portfolio](https://abhinayambati.codes) · [LinkedIn](https://linkedin.com/in/abhinayambati) · [Email](mailto:abhinayambati4@email.com)
 
 ---
 
