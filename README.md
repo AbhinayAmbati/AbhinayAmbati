@@ -6,10 +6,11 @@ Currently pursuing B.Tech CSE at KL University.
 
 ## What I Work With
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS  
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS 
 **Backend** — Java, Spring Boot, Node.js, Express  
-**Database** — MongoDB, PostgreSQL, MySQL  
-**Cloud & DevOps** — AWS, Docker, Jenkins
+**Database** — MongoDB, PostgreSQL, MySQL 
+**Cloud & DevOps** — AWS, Docker, Jenkins, Kubernetes
+**System Design** - Microservices, Load Balancing, Scaling, DB Sharding, Rate-limiting
 
 ## Current Focus
 
