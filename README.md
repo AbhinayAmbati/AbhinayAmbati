@@ -1,6 +1,6 @@
 # Abhinay Ambati
 
-Building scalable web applications with **Java** and **React**.
+Building scalable web and mobile applications with **Java** and **JavaScript**.
 
 Currently pursuing B.Tech CSE at KL University.
 
