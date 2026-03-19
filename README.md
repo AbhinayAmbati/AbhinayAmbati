@@ -2,8 +2,6 @@
 
 Building scalable web and mobile applications with **Java** and **JavaScript**.
 
-Currently pursuing B.Tech CSE at KL University.
-
 ## What I Work With
 
 **Frontend** - React, Next.js, TypeScript, Tailwind CSS
