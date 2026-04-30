@@ -9,7 +9,7 @@ Building scalable web, mobile, and cloud-native systems with **Java** and **Java
 **AI & Agents** - Claude API, MCP, Agentic Systems, RAG, MLOps  
 
 ## Current Focus
-Autonomous cloud infrastructure agents · Agentic AI with MCP · Advanced system design
+Building autonomous cloud infrastructure agents · Agentic AI with MCP · Advanced system design
 
 ## Vibing
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4xwxkatkmzzu4v4w55a4ymc4q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)
