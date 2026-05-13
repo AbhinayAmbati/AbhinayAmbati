@@ -1,1 +1,1 @@
-![Abhinay Ambati](abhinay.png)
+![Abhinay Ambati](abhinay_bmw.png)
