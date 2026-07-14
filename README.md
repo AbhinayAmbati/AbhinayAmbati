@@ -9,7 +9,7 @@ Building scalable web, mobile, and cloud-native systems with **Java** and **Java
 **AI & Agents** - Claude API, MCP, Agentic Systems, RAG, MLOps  
 
 ## Current Focus
-Building autonomous cloud infrastructure agents · Agentic AI with MCP · Advanced system design
+Building autonomous cloud infrastructure agents · Agentic AI with MCP · Advanced system design architectures
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/abhinayambati) · [Email](mailto:abhinayambati4@email.com)
