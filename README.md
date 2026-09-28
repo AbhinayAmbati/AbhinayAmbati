@@ -1,1 +1,1 @@
-I like building scalable systems and exploring AI agents.
+I like building scalable systems and focusing on inference engineering.
