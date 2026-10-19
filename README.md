@@ -1,1 +1,1 @@
-I like building scalable systems and focusing on inference engineering.
+I like building scalable systems and focusing building something meaningful.
